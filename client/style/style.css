@@ -3,6 +3,10 @@
 	top: 100px;
 	right: 150px;
 }
+#container{
+	border-style: solid;
+	background-color: #efefef;
+}
 li{
 	list-style-type: none; 
 }
@@ -11,4 +15,13 @@ li{
   width: 75vw;
   height: 100vh;
   margin-right: 0px;  
+}
+h1{
+	margin-left: 30px;
+}
+.home{
+	margin-left: 30px;
+}
+.to{
+	margin-left: 250px;	
 }

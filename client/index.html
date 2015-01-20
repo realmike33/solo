@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html ng-app="Together">
+<head>
+<link rel="stylesheet" type="text/css" href="lib/bootstrap/dist/css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="style/style.css">
+  <title>Together</title>
+</head>
+<body>
+  <div ui-view></div>
+
+<script src="lib/angular/angular.js"></script>
+<script src="lib/angular-ui-router/release/angular-ui-router.js"></script>
+<script src="app.js"></script>
+<script type="text/javascript" src="lib/ace-builds/src-min-noconflict/ace.js"></script>
+<script src="login/login.js"></script>
+<script type="text/javascript" src="lib/angular-ui-ace/ui-ace.js"></script>
+<script src="https://cdn.firebase.com/js/client/2.1.1/firebase.js"></script>
+<script src="https://cdn.firebase.com/libs/angularfire/0.9.1/angularfire.min.js"></script>
+<script type="text/ng-template" id="home.html">
+  <h1>HOME</h1>
+  <button ui-sref="session">nav to session</button>
+</script>
+<script type="text/ng-template" id="session.html">
+   <h1>Together</h1>
+  <div>
+    <div ui-ace="aceOption" ng-model="value.code"></div>
+    <div id="users">
+      <ul>
+        <li ng-repeat="user in users">{{ user.username }}</li>
+      </ul>
+    </div>
+    </div>
+</script>
+</body>
+</html>

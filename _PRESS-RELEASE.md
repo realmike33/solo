@@ -17,28 +17,28 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > Together
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > Write code together
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > Able to create private rooms to collab with others on different coding project
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > Being able to collab on work together
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > Real-time collaboration
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > "Yeah"
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > log in and share your secret code with anyone
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > "Yup"
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > More coolness coming. Stay tuned!

@@ -1,0 +1,10 @@
+{
+  "name": "mvp",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.0"
+  }
+}
